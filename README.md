@@ -1,2 +1,1 @@
-# README.md for
-# clint326.github.io
+# README.md for clint326.github.io
